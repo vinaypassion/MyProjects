@@ -1,3 +1,3 @@
 export interface IImageCarouselProps {
-  description: string;
+  description: string; 
 }
